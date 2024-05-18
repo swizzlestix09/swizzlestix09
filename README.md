@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### About me 
-[![LinkedIn](https://img.shields.io/badge/AngelyRodriguez%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ang-rod/)](https://www.linkedin.com/in/ang-rod/)
-[![GitHub](https://img.shields.io/badge/AngelyRodriguez%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/swizzlestix09)](https://github.com/swizzlestix09/)
-[![Gmail](https://img.shields.io/badge/AngelyRodriguez%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:angely.rodriguez@gmail.com)](mailto:angely.rodriguez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Angely%20Rodriguez%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ang-rod/)](https://www.linkedin.com/in/ang-rod/)
+[![GitHub](https://img.shields.io/badge/Angely%20Rodriguez%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/swizzlestix09)](https://github.com/swizzlestix09/)
+[![Gmail](https://img.shields.io/badge/Angely%20Rodriguez%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:angely.rodriguez@gmail.com)](mailto:angely.rodriguez@gmail.com)
 
 #### Name: 
 Angely Rodriguez (She/Her) 
