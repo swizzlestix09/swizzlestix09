@@ -15,6 +15,6 @@ Hey there! I'm a full-stack software engineer who thrives on both coding and cre
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nextjs,html,css,styledcomponents,tailwind,figma,js,ts,graphql,nodejs,express,react,jest,reactnative,go,aws,cloudflare,docker,Mongodb,mysql,postgres," />
+    <img src="https://skillicons.dev/icons?i=git,nextjs,html,css,styledcomponents,tailwind,figma,js,ts,graphql,nodejs,express,react,jest,reactnative,go,aws,cloudflare,docker,mongodb,mysql,postgres," />
   </a>
 </p>
